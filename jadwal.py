@@ -81,7 +81,7 @@ elif choice == ("jumat"):
 elif choice == ("tugas") :
 	print ("\033[33;1m coming soon\033[0m ")
 else:
-	print "\033[31;1m no choice definied\033[0m")
+	print ("\033[31;1m no choice definied\033[0m")
 	print ('\n')
 
 
