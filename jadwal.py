@@ -23,7 +23,7 @@ if choice == ("senin"):
 		pukul \033[0;32m 07:00\033[0m  ---> MATEMATIKA (U)
 		pukul \033[0;32m 08:00\033[0m  ---> B. INGGRIS
 		pukul \033[0;32m 09:30\033[0m  ---> PKWU
-		pukul \033[0;32m 10:30\033[0m ---> B. JAWA""")
+		pukul \033[0;32m 10:30\033[0m --->  B. JAWA""")
 	print ('\n')
 	time.sleep(2)
 	senin1 = ['kamu pasti bisa ayo semangat hari senin!! masih ada 4 hari lagi', 'aku tau kamu bosan belajarlah dan kamu akan tau bahwa sukses itu tak pernah bosan', 'semangat buat kamu yang pjj, semoga cepet kelar tugasnya yahh', 'senin itu asyik lohh, jangan di buat pusing rilex aja yah']
@@ -68,7 +68,7 @@ elif choice == ("kamis"):
 elif choice == ("jumat"):
 	print ("\033[0;36m=====================\033[0m\033[0;32m\033[0;32m |\033[0m jadwal hari \033[33;1m JUMAT \033[0m  adalah sebagai berikut \033[0;32m |\033[0m\033[0;36m=====================\033[0m")
 	print("""
-		pukul \033[0;32m 07:00\033[0m ---> BK
+		pukul \033[0;32m 07:00\033[0m --->  BK
 		pukul \033[0;32m 08:00\033[0m  ---> TIK
 		""")
 	print ('\n')
