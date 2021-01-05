@@ -2,4 +2,4 @@ usage:
 
 python jadwal.py
 
-next is coing soon
+next is coming soon
