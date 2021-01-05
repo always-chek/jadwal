@@ -49,6 +49,7 @@ elif choice == ("rabu"):
 		pukul \033[0;32m 09:30\033[0m ---> S. INDONESIA
 		pukul \033[0;32m 10:30\033[0m ---> PPKN""")
 	print '\n'
+	time.sleep(2)
 	rabu1 = ['YEAYYY.. tinggal 2 hari. wahh kamu kuat yah', 'jangan kasih kendor', 'sukses masih diatas maka buatlah sukses itu ada di depanmu', 'jaga kesehatan yahh']
 	print("\033[0;36mmotivasi hari ini: \033[0m" +random.choice(rabu1))
 	print '\n'
@@ -60,6 +61,7 @@ elif choice == ("kamis"):
 		pukul \033[0;32m 09:30\033[0m ---> BIOLOGI
 		""")
 	print '\n'
+	time.sleep(2)
 	kamis1 = ['SEMANGAT TINGGAL 1 HARI LAGI LOHH', 'NAH ITU KAMU MAMPU', 'belajarlah seolah penderitaan akan membunuhmu!!!', 'BANGKIT, BERJUANG, GAPAI MIMPI MU', 'JANGAN SIA-SIAKAN APA YANG ORANG TUAMU BERI!']
 	print("\033[0;36mmotivasi hari ini: \033[0m" +random.choice(kamis1))
 	print '\n'
@@ -70,6 +72,7 @@ elif choice == ("jumat"):
 		pukul \033[0;32m 08:00\033[0m  ---> TIK
 		""")
 	print '\n'
+	time.sleep(2)
 	jumat1 = [' UDAH DI UJUNG HARI NIH, BESOK SIAP-SIAP REFRESHING YAHH', 'HORREY', 'INI ADALAH HARI MEMBAHAGIAKAN LOHH', 'ISTIRAHAT YANG CUKUP, DAN JANGAN LUPA AKAN KE SUKSESANMU YAHH', 'KAMU ADALAH ORANG KUAT DALAM MENTAL, YA KAMU JUGA HARUS YAKIN']
 	print("\033[0;36mmotivasi hari ini: \033[0m" +random.choice(jumat1))
 
