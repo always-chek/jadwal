@@ -5,7 +5,7 @@ import os
 
 os.system('clear')
 
-nanya = ("\033[0;36m LIAT JADWAL DAN TUGASMU")
+nanya = ("\033[0;36mLIAT JADWAL DAN TUGASMU\033[0m")
 print(nanya.center(106,'='))
 tugas =("""
 	\033[0;32mbuat jadwal tugasmu!\033[0m (ex: tugas)""")
